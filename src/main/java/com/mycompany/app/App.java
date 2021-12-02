@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App
 {
-
+    # Adding a commet ga
     private final String message = "Hello World!";
 
     public App() {}
